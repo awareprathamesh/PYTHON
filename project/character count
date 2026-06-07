@@ -1,0 +1,5 @@
+name =" ma dam "
+
+print("charater ",len(name))
+print("space ", name.count(" "))
+
