@@ -1,0 +1,7 @@
+def avg_num(a, b, c):
+    sum = a + b +c 
+    cal = sum/3
+    print(cal)
+
+output = avg_num(1, 2, 3)
+print(output)
