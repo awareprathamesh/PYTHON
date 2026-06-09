@@ -1,0 +1,10 @@
+#program to check palindrome
+name  = input("Enter a name : ")
+
+reverse_name = name[::-1]
+
+if( name == reverse_name):
+    print("palindroem")
+
+else:
+    print("no palindrome")
